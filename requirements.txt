@@ -1,0 +1,8 @@
+deepgram-sdk
+deeptranslator
+soundfile
+pysrt
+moviepy
+requests
+python-dotenv
+youtube_dl
